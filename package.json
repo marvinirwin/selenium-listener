@@ -1,0 +1,23 @@
+{
+  "name": "selenium-listener",
+  "version": "1.0.1",
+  "description": "listens to selenium events",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinirwin/selenium-listener.git"
+  },
+  "keywords": [
+    "selenium",
+    "event"
+  ],
+  "author": "marvinirwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvinirwin/selenium-listener/issues"
+  },
+  "homepage": "https://github.com/marvinirwin/selenium-listener#readme"
+}
