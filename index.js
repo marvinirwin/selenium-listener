@@ -32,7 +32,7 @@ function registerEventListener(driver, cb) {
 function removeElement(driver, id) {
     driver.executeScript(`
     const [id] = arguments;
-    document.getElementById(id).className = 'removed';//remove(); 
+    document.getElementById(id).remove(); 
     `, id);
 }
 
